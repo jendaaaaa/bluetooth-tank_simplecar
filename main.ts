@@ -20,6 +20,10 @@ basic.forever(function () {
         OMG_Tank.Set_Speed(-100, 100)
     } else if (Data == "r") {
         OMG_Tank.Set_Speed(100, -100)
+    } else if (Data == "D") {
+        pins.servoWritePin(AnalogPin.P2, 120)
+    } else if (Data == "W") {
+        pins.servoWritePin(AnalogPin.P2, 60)
     } else {
         OMG_Tank.Stop_Motors()
     }
