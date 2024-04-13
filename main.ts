@@ -1,3 +1,6 @@
+/**
+ * aplikace EV-micro:bit
+ */
 bluetooth.onBluetoothConnected(function () {
     basic.showIcon(IconNames.Happy)
 })
