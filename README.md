@@ -1,6 +1,8 @@
 
 > Open this page at [https://jendaaaaa.github.io/bluetooth_android_tank_simplecar/](https://jendaaaaa.github.io/bluetooth_android_tank_simplecar/)
 
+Code for app EV-micro:bit available on all mobile platforms. No need to pair.
+
 ## Use as Extension
 
 This repository can be added as an **extension** in MakeCode.
